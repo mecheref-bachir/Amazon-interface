@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Amazon</string>
+    <string name="amazon_logo">Amazon Logo</string>
+    <string name="sign_in_to_zappos_com_using_your_amazon_account">Sign in to <b>Zappos.com</b> using your Amazon account</string>
+    <string name="sign_in">Sign in</string>
+    <string name="forget_password">Forget password?</string>
+</resources>
